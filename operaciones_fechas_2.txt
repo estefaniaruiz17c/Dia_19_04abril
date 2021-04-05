@@ -1,0 +1,37 @@
+Ejercicios de manejo de fechas del texto 'fechas_2.txt'
+
+- Las fechas del segundo texto de la 1 a la 4 en orden: 
+
+(2004,04,22)
+(1976,12,14)
+(2021,04,05)
+(1996,10,16)
+
+
+- Ejercicios con funciones: 
+
+- date(): 
+
+Fecha 1 representada de la manera 1: 2004-04-22
+Fecha 1 representada de la manera 2: 22/04/04
+
+- date(), .day(), .month(), .year(): 
+
+Fecha 2: 1976-12-14
+Día fecha 2: 14
+Año fecha 2: 1976
+Mes fecha 2: 12
+
+- date() y otras formas de mostrar la fecha: 
+
+Fecha 3: 2021-04-05
+Fecha 3 representada de la manera 1: Mon, 05 de Apr de 21
+Fecha 3 representada de la manera 2: Monday, 05 de Apr de 2021
+Fecha 3 representada de la manera 3: Mon, 05 de April de 21
+Fecha 3 representada de la manera 4: Monday, 05 de April de 2021
+
+- date(), weekday() y otra forma de imprimir la fecha: 
+
+Fecha 4: 1996-10-16
+Fecha 4 en fomato largo: Wed Oct 16 00:00:00 1996
+Weekday() fecha 4: 2

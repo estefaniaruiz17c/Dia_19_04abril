@@ -1,0 +1,32 @@
+Ejercicios de manejo de fechas del texto 'fechas_1.txt'
+
+- Las fechas del primer texto de la 1 a la 6 en orden: 
+
+03/05/2012
+14/10/2014
+04/03/2000
+21/03/1980
+13/02/2010
+17/03/2001
+
+- Operaciones entre fechas: 
+
+- Sumaremos 30 días a la primera fecha con timedelta() y strptime(): 
+
+Fecha 1: 2012-05-03 00:00:00
+30 días más de la fecha 1: 2012-06-02 00:00:00
+
+- Comparación fecha 2 y fecha 3: 
+
+Es la fecha 2 menor que la fecha 3?: 
+False
+
+- Comparación fecha 4 y fecha 5: 
+
+Es la fecha 4 diferente a la fecha 5?: 
+True
+
+- Restaremos 9 días a la sexta fecha con timedelta(): 
+
+Fecha 6: 2001-03-17 00:00:00
+9 días menos de la fecha 6: 2001-03-08 00:00:00
